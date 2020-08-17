@@ -1,0 +1,10 @@
+.headerContainer {
+    display: flex;
+
+    background-color: #61dafb;
+}
+
+.strip {
+    width: 40px;
+    height: auto;
+}
